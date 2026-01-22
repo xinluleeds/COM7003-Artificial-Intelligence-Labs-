@@ -1,0 +1,3 @@
+Line 1: I love LTU!
+Line 2: I like Programming.
+Line 3: This is an AI code
